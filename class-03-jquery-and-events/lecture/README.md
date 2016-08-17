@@ -6,5 +6,3 @@
 ##  Notes (Key Terms)
 - Event delegation: allows us to attach a single event listener to a parent element that will fire for all descendants matched to a selector, whether those descendants exist now or are added in the future.
 
-## Class videos
-- [class-03 playlist coming soon]()
