@@ -4,6 +4,6 @@ When you `push` or `pull` from a remote, your local repository is interacting wi
 ##Adding Remotes
 When cloning a repository that you plan to work on but are not a collaborator on, you need to `fork` it first, creating a copy of it at its current state, to your own GitHub account. After forking and cloning the repository locally, your `origin` will point to the copy on your GitHub account, but now to easily access changes (that is, `pull`), you will need to add a new remote in addition to your origin.  
 
-To do so, `git remote add upsream`, where upstream is a convention but not a requirement.
+To do so, `git remote add upstream theOriginalRepoLink`, where upstream is a convention but not a requirement, and `theOriginalRepoLink` is the URL that points to the original account's repo.
 ```sh
 ```
