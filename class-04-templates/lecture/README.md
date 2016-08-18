@@ -5,6 +5,4 @@
 
 ##  Notes (Key Terms)
 
-## Videos
-- [class-04 playlist coming soon]()
 
