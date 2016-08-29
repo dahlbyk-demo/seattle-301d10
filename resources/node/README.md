@@ -15,6 +15,9 @@ For your portfolio beginning with  class 11, it will benefit you greatly to util
   - license defaults (or should default to MIT) either will be fine here.
   - It will finally ask you if this is ok? You may hit enter if so gto answer yes.
 
+## server.js
+For the server file, you may use the same code we used in lab for our server.js file.
+  - Also ensure that this file is within the root of your project directory.
 
 ### Docs
 - https://nodejs.org/en/docs/
