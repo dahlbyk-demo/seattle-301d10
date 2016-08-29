@@ -10,8 +10,8 @@ For your portfolio beginning with  class 11, it will benefit you greatly to util
   - version can be 1.0.0
   - description can be "my 301 portfolio project"
   - main should be `server.js`
-  - git repository may have a default value, but if not, you can hit enter to skip for now
-  - keywords is not necessary and you may hit enter to skip
+  - git repository may have a default value, but if not, you can hit enter to skip that for now.
+  - keywords is not necessary and you may hit enter to skip.
   - license defaults (or should default to MIT) either will be fine here.
   - It will finally ask you if this is ok? You may hit enter if so gto answer yes.
 
