@@ -1,7 +1,7 @@
 # node Resources
 
 ## package.json
-For your portfolio beginning with  class 11, it will benefit you greatly to utilize a custom node server to use with page.js. To begin setting this up, let's first create a `package.json` file to set up our portfolios info for npm (Node Package Manager).
+For your portfolio beginning with  class 11, it will benefit you greatly to utilize a custom node server to use with page.js. To begin setting this up, let's first create a `package.json` file to set up our portfolio's info for npm (Node Package Manager).
 1. Within the root of your project directory (where your index.html lives):
   - type `npm init` and hit enter
   - this will walk you through the steps necessary to create your own package.json file.
