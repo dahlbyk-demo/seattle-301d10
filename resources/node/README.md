@@ -18,9 +18,12 @@ For your portfolio beginning with  class 11, it will benefit you greatly to util
 ## server.js
 For the server file, you may use the same code we used in lab for our server.js file.
   - Also ensure that this file is within the root of your project directory.
+  - Do not forget to install your express dependency within your project terminal directory: `npm i --save express`
+
+### Nodemon
+To mimic the benefits that live-server provided to us in restarting our server everytime a file change ocurred, we can do the same with nodemon, which adds functionality on top of running a node server.
+Install it like so, anywhere in your terminal: `npm i -g nodemon`
 
 ### Docs
 - https://nodejs.org/en/docs/
 
-### Nodemon
-`npm i -g nodemon`
